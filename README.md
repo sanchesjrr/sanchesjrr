@@ -24,4 +24,6 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=sanchesjrr&theme=react)](https://github.com/sanchesjrr/sanchesjrr)
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=dio-lab-open-source&theme=github_dark&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/sanchesjrr/dio-lab-open-source)
