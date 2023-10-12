@@ -15,32 +15,15 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   <br>
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/joserobertosanches/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/sanchesjrr/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div> <!-- Abra uma div para a seção "Minhas Contribuições" -->
+  <h2 align="center">Minhas Contribuições</h2>
+</div> <!-- Feche a div da seção "Minhas Contribuições" -->
 
 <div align="center">
-  <h2 align="center">Minhas Contribuições</h2>
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=dio-lab-open-source&theme=github_dark&show_icons=true&title_color=fff&text_color=fff)](https://github.com/sanchesjrr/dio-lab-open-source)
 </div>
-
-
