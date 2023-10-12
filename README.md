@@ -40,6 +40,7 @@
 
 <div align="center">
   <h2 align="center">Minhas Contribuições</h2>
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=dio-lab-open-source&theme=github_dark&show_icons=true&title_color=fff&text_color=fff)](https://github.com/sanchesjrr/dio-lab-open-source)
 </div>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=dio-lab-open-source&theme=github_dark&show_icons=true&title_color=fff&text_color=fff)](https://github.com/sanchesjrr/dio-lab-open-source)
+
