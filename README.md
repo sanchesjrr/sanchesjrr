@@ -36,6 +36,7 @@
 </div>
 
 <div align="center">
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=dio-lab-open-source&theme=github_dark&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/sanchesjrr/dio-lab-open-source)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=dio-lab-open-source&theme=github_dark&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/sanchesjrr/dio-lab-open-source)
 </div>
+
 
