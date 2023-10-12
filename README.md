@@ -20,10 +20,25 @@
   </a>
 </div>
 
-<div> <!-- Abra uma div para a seção "Minhas Contribuições" -->
-  <h2 align="center">Minhas Contribuições</h2>
-</div> <!-- Feche a div da seção "Minhas Contribuições" -->
-
 <div align="center">
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=dio-lab-open-source&theme=github_dark&show_icons=true&title_color=fff&text_color=fff)](https://github.com/sanchesjrr/dio-lab-open-source)
+  <h2>Minhas Contribuições</h2>
 </div>
+
+<div align="center"> <!-- Abra uma div para centralizar o conteúdo abaixo de "Minhas Contribuições" -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/sanchesjrr/github-contribution-grid-snake.svg"
+    />
+  </picture>
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=dio-lab-open-source&theme=github_dark&show_icons=true&title_color=fff&text_color=fff)](https://github.com/sanchesjrr/dio-lab-open-source)
+</div> <!-- Feche a div de alinhamento central para o conteúdo abaixo de "Minhas Contribuições" -->
