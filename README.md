@@ -15,7 +15,6 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   <br>
-  
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -36,5 +35,7 @@
   <h2>Minhas Contribuições</h2>
 </div>
 
-## Minhas Contribuições
+<div align="center">
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchesjrr&repo=dio-lab-open-source&theme=github_dark&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/sanchesjrr/dio-lab-open-source)
+</div>
+
